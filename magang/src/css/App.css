@@ -1,0 +1,57 @@
+.div {
+  background: linear-gradient(blue, orange, green);
+}
+
+.app-container {
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  padding: 20px;
+}
+.container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.product-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-name {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.product-description {
+  color: #555;
+}
+
+.product-price {
+  color: green;
+  font-weight: bold;
+}
+
+.add-to-cart {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

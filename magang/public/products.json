@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Laptop ASUS ROG",
+    "harga": 25000000,
+    "deskripsi": "Laptop gaming dengan performa tinggi."
+  },
+  {
+    "nama": "iPhone 14 Pro",
+    "harga": 18000000,
+    "deskripsi": "Smartphone flagship dengan kamera canggih."
+  },
+  {
+    "nama": "Smart TV Samsung",
+    "harga": 10000000,
+    "deskripsi": "Televisi pintar dengan layar 4K."
+  },
+  {
+    "nama": "Headphone Sony WH-1000XM4",
+    "harga": 4500000,
+    "deskripsi": "Headphone noise-cancelling terbaik di kelasnya."
+  }
+]
